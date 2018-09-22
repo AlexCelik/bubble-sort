@@ -7,4 +7,4 @@ for loopAgain in range(len(number)-1):
             number[counter+1] = temp
         print(number)
         print(counter)
-        print(passNum)
+        print(loopAgain)
